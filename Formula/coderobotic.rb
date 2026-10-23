@@ -1,8 +1,8 @@
 class Coderobotic < Formula
   desc "Robotic Code in your terminal, the coding teammate from Starteammate"
   homepage "https://starteammate.com"
-  url "https://registry.npmjs.org/@coderobotic/code/-/code-0.5.8.tgz"
-  sha256 "b476e8a75d6d694821b09c37122eab3314fa80eb0f29890d0dbddfadef28e5e9"
+  url "https://registry.npmjs.org/@coderobotic/code/-/code-0.5.9.tgz"
+  sha256 "0ac3929692e047fd4d7227eab7c034fe7e158f84f5bde105380ab4adb036d46e"
 
   depends_on "node"
 
