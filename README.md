@@ -1,7 +1,5 @@
 # Starteammate Homebrew tap
 
-```
-brew install brandonmlicea/tap/coderobotic
-```
+Robotic Code is gone: its formula has been removed from this tap and the npm package is no longer installed anywhere.
 
-Then `coderobotic login` once, and `coderobotic` in any project folder.
+Starteammate is published on npm from https://github.com/brandonmlicea/starteammate.
